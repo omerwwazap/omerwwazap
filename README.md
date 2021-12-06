@@ -1,5 +1,6 @@
-### Hi there 👋
+![Levent Durdalı's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerwwazap&theme=radical&show_icons=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerwwazap&layout=compact&theme=radical)
 <!--
 **omerwwazap/omerwwazap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
