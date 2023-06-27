@@ -34,6 +34,6 @@ Connect with me
 <br>
 <br>
 <a href="https://github.com/omerwwazap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omerwwazap&theme=radical&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omerwwazap&theme=radical&show_icons=true&count_private=true&rank_icon=github" />
 </a>
 </p>  
