@@ -31,6 +31,12 @@ Connect with me
 <a href="https://www.linkedin.com/in/leventdurdali/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> &nbsp;
+
+<a href="https://omerwwazap.github.io/blog/" target="_blank">
+<img src=https://img.shields.io/badge/Levent's%20Blog-813179?style=for-the-badge&logo=jekyll alt=Blog style="margin-bottom: 5px;" />
+</a> &nbsp;
+
+
 <br>
 <br>
 <a href="https://github.com/omerwwazap">
